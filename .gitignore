@@ -1,0 +1,15 @@
+#
+# files
+#
+
+*~
+\#*\#
+.\#*
+
+#
+# dirs
+#
+
+.idea
+tools
+vendor
